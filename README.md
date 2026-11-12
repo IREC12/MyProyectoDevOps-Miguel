@@ -1,27 +1,32 @@
 # MyProyectoDevOps
 
 ## Descripción
-MyProyectoDevOps es un repositorio de ejemplo organizado para practicar el uso de Git, GitHub y herramientas de DevOps.
+MyProyectoDevOps es un repositorio creado para practicar el uso de Git, GitHub y herramientas de DevOps.
+
+## Objetivo
+Organizar los componentes de un proyecto de software mediante una estructura clara y aplicar buenas prácticas de control de versiones.
 
 ## Estructura del proyecto
 
 - `backend/`: código y lógica del servidor.
-- `frontend/`: interfaz de usuario.
+- `frontend/`: archivos de la interfaz de usuario.
 - `database/`: scripts y archivos relacionados con la base de datos.
 - `docs/`: documentación del proyecto.
 - `images/`: imágenes y recursos gráficos.
-- `.github/workflows/`: archivos de configuración de GitHub Actions.
+- `.github/workflows/`: configuraciones de automatización mediante GitHub Actions.
 
-## Requisitos
-Los requisitos dependerán de las tecnologías que se incorporen al proyecto.
+## Archivos principales
 
-## Instalación y uso
-1. Clona este repositorio.
-2. Abre la carpeta del proyecto en tu editor.
-3. Consulta la documentación de cada componente antes de ejecutarlo.
+- `README.md`: descripción e información del proyecto.
+- `LICENSE`: condiciones de uso y distribución del software.
+- `.gitignore`: archivos y carpetas que Git debe ignorar.
 
-## Tecnologías
-Este repositorio es una plantilla inicial. Agrega aquí las tecnologías que utilice tu proyecto.
+## Tecnologías y herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+- GitHub Actions
 
 ## Autor
-Escribe aquí tu nombre.
+Miguel Lopez
